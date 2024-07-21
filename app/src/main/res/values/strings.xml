@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppProyecto</string>
+    <string name="labelUsuario">Ingresar Usuario</string>
+    <string name="labelClave">Ingresar Clave</string>
+    <string name="labelNombre">Ingresar Nombre</string>
+    <string name="labelHijos">Ingresar Hijos</string>
+    <string name="labelSueldo">Ingresar Sueldo</string>
+    <string-array name="simple_items">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+</resources>
